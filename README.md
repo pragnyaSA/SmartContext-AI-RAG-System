@@ -1,4 +1,4 @@
-# Gemini-Retrieval-Augmented-Generation-RAG-system-with-LLMs-from-Scratch
+# SmartContext-AI-RAG-System
 This project implements a Retrieval-Augmented Generation (RAG) system using Google’s Gemini LLMs. The system allows users to upload documents (.txt, .md, .pdf, .docx) and ask questions grounded strictly in the content of the uploaded documents. The model generates answers based solely on the provided context, ensuring reliable and document-specific responses.
 
 LIVE ON STREAMLIT CLOUD: https://gemini-ragsystem-llm.streamlit.app/
